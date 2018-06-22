@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liang Hu / Machine Learning & Recommender Systems"
+title                    : "Machine Learning & Recommender Systems"
 title_separator          : "-"
 name                     : &name "Liang Hu"
 description              : &description "Liang Hu's Home Page"
@@ -83,7 +83,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Sydney, Australia"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.au/citations?user=cj6wAgYAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8588-2177"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
